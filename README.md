@@ -63,6 +63,5 @@
 
 ## 👤 توسعه‌دهنده
 
-پروژه‌ی دانشگاهی — Razia Mohseni
-
-github.com/RaziaMohseni/Breakout
+پروژه‌ی دانشگاهی
+https://github.com/RaziaMohseni/Breakout
